@@ -1,2 +1,2 @@
 # Utils
-All the utility functions I create across the years
+All the utility functions I've created across the years
